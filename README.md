@@ -1,2 +1,6 @@
 # hello-world
-Just for fun
+
+Hi!
+
+Just messing with the Githup. Cool!
+This all is just testing stuff
